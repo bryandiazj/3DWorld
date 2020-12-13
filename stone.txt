@@ -1,0 +1,16 @@
+name models/stone2_S.obj
+randx -2.40414
+randy 0
+randz -24.2774
+rotY 11
+colorx 0.59
+colory 0.14
+colorz 0.32
+name models/stone2_S.obj
+randx -12.5762
+randy 0
+randz 19.3627
+rotY 112
+colorx 0.59
+colory 0.14
+colorz 0.32

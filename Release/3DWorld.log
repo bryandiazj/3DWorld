@@ -1,0 +1,11 @@
+﻿  3dworld.cpp
+C:\Users\Might\source\repos\3DWorld\3DWorld\3dworld.cpp(32,46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Might\source\repos\3DWorld\3DWorld\3dworld.cpp(41,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Might\source\repos\3DWorld\3DWorld\3dworld.cpp(252,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\3DWorld\3DWorld\3dworld.cpp(252,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+  63 of 540 functions (11.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  3DWorld.vcxproj -> C:\Users\Might\source\repos\3DWorld\Release\3DWorld.exe

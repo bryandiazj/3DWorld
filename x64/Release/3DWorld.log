@@ -1,0 +1,10 @@
+﻿  3dworld.cpp
+C:\Users\Might\source\repos\3DWorld\3DWorld\3dworld.cpp(31,46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Might\source\repos\3DWorld\3DWorld\3dworld.cpp(40,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Might\source\repos\3DWorld\3DWorld\3dworld.cpp(167,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Might\source\repos\3DWorld\3DWorld\3dworld.cpp(167,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Basic.cpp
+  ObjLoader.cpp
+  Polyhedron.cpp
+C:\Users\Might\source\repos\3DWorld\3DWorld\Polyhedron.cpp(34,22): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const double', possible loss of data
+models\CartoonTree1-top.obj : fatal error LNK1107: invalid or corrupt file: cannot read at 0x101ECA
